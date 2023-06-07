@@ -8,10 +8,10 @@ MOSIP uses Spring CLoud Config Server to read the properties files. So, to use t
 
 Local Config Server Installation Guide
 
-### Overview
+## Overview
 MOSIP uses Config Server to read the properties files. 
 
-### Download 
+## Download 
 
 1. Download Config server jar [config-server](https://mvnrepository.com/artifact/io.mosip.kernel/kernel-config-server)
 
