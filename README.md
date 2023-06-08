@@ -1,17 +1,17 @@
-# MOSIP Configuration
+## MOSIP Configuration
 
-## Configuration properties
+### Configuration properties
 
 MOSIP uses Spring CLoud Config Server to read the properties files. So, to use the properties files in this repo, please update the IP addresses, keys and passwords and then point to this repo in spring cloud config in kernel module.
 
-## Config server 
+### Config server 
 
 Local Config Server Installation Guide
 
 ### Overview
 MOSIP uses Config Server to read the properties files. 
 
-### Download 
+## Download 
 
 1. Download Config server jar [config-server](https://mvnrepository.com/artifact/io.mosip.kernel/kernel-config-server)
 
